@@ -1,1 +1,1 @@
-# Student-table created to demonstrate knowledge of sql commands
+# Table created to demonstrate knowledge of sql commands
